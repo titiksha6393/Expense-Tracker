@@ -1,3 +1,8 @@
+This project requires integration of Speechly API
+But due to some issues the API is not working properly on this project
+Hope to integrate in future
+If you have any idea or solution you are free to make a request
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
